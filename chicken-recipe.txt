@@ -1,0 +1,1 @@
+Chicken recipe for testing purposes for the github course.
